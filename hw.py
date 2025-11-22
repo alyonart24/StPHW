@@ -1,1 +1,2 @@
-print ("Hello, world!")
+x = Alyona
+print ("Hello, {x}!")
