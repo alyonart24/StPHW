@@ -1,0 +1,7 @@
+matplotlib==3.10.8
+nltk==3.9.2
+numpy==2.4.2
+pandas==3.0.1
+pymorphy3==2.0.6
+scikit_learn==1.8.0
+scipy==1.17.1
