@@ -1,2 +1,2 @@
-x = Alyona
-print ("Hello, {x}!")
+x = "Alyona"
+print (f"Hello, {x}!")
